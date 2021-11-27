@@ -17,4 +17,3 @@ A Discord bot user with member intents unlocked (will need verification for usag
 # HOW TO USE
 
 v0.2: Set variables at config.py file
-v0.1: Replace all <> tagged content with the proper ID or text according to coments. 
