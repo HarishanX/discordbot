@@ -4,7 +4,6 @@ from discord.ext    import commands
 from discord.ext.commands   import Bot
 from discord.ext.commands import MemberConverter
 from discord.utils import get
-import asyncio
 from config import token
 from config import emojis
 from config import messages

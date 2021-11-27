@@ -11,7 +11,9 @@ The other part is, given an input message from a specific bot, it will process t
 # REQUIREMENTS
 
 Python3.5.2 or greater (for discord.py)
+
 Discord.py 1.6 or greater
+
 A Discord bot user with member intents unlocked (will need verification for usage on more that 100 servers) (needed to get member ID from its name)
 
 # HOW TO USE
