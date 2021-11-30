@@ -35,7 +35,7 @@ async def on_message(message):
     if str(message.channel.id) == emojis.channel_emoji and str(message.author.id) == emojis.author_emoji: 
         await react(message)
 
-    if message.author.bot == False and message.author.id != messages.self_id:    
+    if message.author.bot and message.author.id != messages.self_id:    
         if str(message.channel.id) == messages.channel_trigger:   
             if messages.trigger_accepted in message.content: 
                 user= message.content.split(messages.splitter)

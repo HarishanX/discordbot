@@ -16,6 +16,8 @@ Discord.py 1.6 or greater
 
 A Discord bot user with member intents unlocked (will need verification for usage on more that 100 servers) (needed to get member ID from its name)
 
+The following server permisions: Send Messages, Read Messages/View Channels, Read Message History, Add  Reactions, Manage Nicknames
+
 # HOW TO USE
 
 v0.2: Set variables at config.py file
